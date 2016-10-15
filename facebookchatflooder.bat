@@ -1,0 +1,1 @@
+start F:\sikuli\runsikuliX.cmd -r H:\Programming\Sikuli\fbchatflood.sikuli
